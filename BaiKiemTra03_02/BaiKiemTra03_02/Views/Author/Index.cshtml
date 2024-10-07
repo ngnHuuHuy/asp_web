@@ -1,0 +1,33 @@
+﻿@model IEnumerable<BaiKiemTra03_02.Models.Author>
+
+<h2>Danh sách tác giả</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Mã Tác Giả</th>
+            <th>Tên Tác Giả</th>
+            <th>Quốc Tịch</th>
+            <th>Năm Sinh</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var author in Model)
+        {
+            <tr>
+                <td>@author.AuthorId</td>
+                <td>@author.AuthorName</td>
+                <td>@author.Nationality</td>
+                <td>@author.BirthYear</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@author.AuthorId">Chỉnh sửa</a> |
+                    <a asp-action="Details" asp-route-id="@author.AuthorId">Chi tiết</a> |
+                    <a asp-action="Delete" asp-route-id="@author.AuthorId">Xóa</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<a asp-action="Create" class="btn btn-primary">Thêm tác giả mới</a>

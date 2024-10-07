@@ -1,0 +1,42 @@
+﻿@model BaiKiemTra03_02.Models.Author
+
+<h2>Xóa tác giả</h2>
+
+<h3>Bạn có chắc chắn muốn xóa tác giả này?</h3>
+<div>
+    <h4>Tác giả</h4>
+    <div>
+        <dl class="row">
+            <dt class="col-sm-2">
+                Mã Tác Giả
+            </dt>
+            <dd class="col-sm-10">
+                @Model.AuthorId
+            </dd>
+            <dt class="col-sm-2">
+                Tên Tác Giả
+            </dt>
+            <dd class="col-sm-10">
+                @Model.AuthorName
+            </dd>
+            <dt class="col-sm-2">
+                Quốc Tịch
+            </dt>
+            <dd class="col-sm-10">
+                @Model.Nationality
+            </dd>
+            <dt class="col-sm-2">
+                Năm Sinh
+            </dt>
+            <dd class="col-sm-10">
+                @Model.BirthYear
+            </dd>
+        </dl>
+    </div>
+
+    <form asp-action="Delete">
+        <input type="hidden" asp-for="AuthorId" />
+        <button type="submit" class="btn btn-danger">Xóa</button> |
+        <a asp-action="Index" class="btn btn-secondary">Hủy</a>
+    </form>
+</div>

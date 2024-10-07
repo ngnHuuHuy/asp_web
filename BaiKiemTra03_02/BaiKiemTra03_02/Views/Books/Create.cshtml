@@ -1,0 +1,25 @@
+﻿@model BaiKiemTra03_02.Models.Book
+
+<h2>Thêm sách mới</h2>
+
+<form asp-action="Create">
+    <div class="form-group">
+        <label for="Title">Tiêu Đề</label>
+        <input type="text" class="form-control" asp-for="Title" />
+    </div>
+    <div class="form-group">
+        <label for="PublicationYear">Năm Xuất Bản</label>
+        <input type="number" class="form-control" asp-for="PublicationYear" />
+    </div>
+    <div class="form-group">
+        <label for="Genre">Thể Loại</label>
+        <input type="text" class="form-control" asp-for="Genre" />
+    </div>
+    <div class="form-group">
+        <label for="AuthorId">Tác Giả</label>
+        <select class="form-control" asp-for="AuthorId" asp-items="ViewBag.AuthorId"></select>
+    </div>
+    <button type="submit" class="btn btn-primary">Lưu</button>
+</form>
+
+<a asp-action="Index" class

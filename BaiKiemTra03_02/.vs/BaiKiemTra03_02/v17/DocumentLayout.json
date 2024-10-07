@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GitHub\\asp_web\\BaiKiemTra03_02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB2CD1C7-5D51-4287-B530-09259053B0E0}|BaiKiemTra03_02\\BaiKiemTra03_02.csproj|d:\\github\\asp_web\\baikiemtra03_02\\baikiemtra03_02\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EB2CD1C7-5D51-4287-B530-09259053B0E0}|BaiKiemTra03_02\\BaiKiemTra03_02.csproj|solutionrelative:baikiemtra03_02\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB2CD1C7-5D51-4287-B530-09259053B0E0}|BaiKiemTra03_02\\BaiKiemTra03_02.csproj|d:\\github\\asp_web\\baikiemtra03_02\\baikiemtra03_02\\views\\books\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EB2CD1C7-5D51-4287-B530-09259053B0E0}|BaiKiemTra03_02\\BaiKiemTra03_02.csproj|solutionrelative:baikiemtra03_02\\views\\books\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB2CD1C7-5D51-4287-B530-09259053B0E0}|BaiKiemTra03_02\\BaiKiemTra03_02.csproj|d:\\github\\asp_web\\baikiemtra03_02\\baikiemtra03_02\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB2CD1C7-5D51-4287-B530-09259053B0E0}|BaiKiemTra03_02\\BaiKiemTra03_02.csproj|solutionrelative:baikiemtra03_02\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB2CD1C7-5D51-4287-B530-09259053B0E0}|BaiKiemTra03_02\\BaiKiemTra03_02.csproj|d:\\github\\asp_web\\baikiemtra03_02\\baikiemtra03_02\\controllers\\authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB2CD1C7-5D51-4287-B530-09259053B0E0}|BaiKiemTra03_02\\BaiKiemTra03_02.csproj|solutionrelative:baikiemtra03_02\\controllers\\authorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB2CD1C7-5D51-4287-B530-09259053B0E0}|BaiKiemTra03_02\\BaiKiemTra03_02.csproj|d:\\github\\asp_web\\baikiemtra03_02\\baikiemtra03_02\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB2CD1C7-5D51-4287-B530-09259053B0E0}|BaiKiemTra03_02\\BaiKiemTra03_02.csproj|solutionrelative:baikiemtra03_02\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\GitHub\\asp_web\\BaiKiemTra03_02\\BaiKiemTra03_02\\appsettings.json",
+              "RelativeDocumentMoniker": "BaiKiemTra03_02\\appsettings.json",
+              "ToolTip": "D:\\GitHub\\asp_web\\BaiKiemTra03_02\\BaiKiemTra03_02\\appsettings.json",
+              "RelativeToolTip": "BaiKiemTra03_02\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-07T08:13:06.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\GitHub\\asp_web\\BaiKiemTra03_02\\BaiKiemTra03_02\\Views\\Books\\Delete.cshtml",
+              "RelativeDocumentMoniker": "BaiKiemTra03_02\\Views\\Books\\Delete.cshtml",
+              "ToolTip": "D:\\GitHub\\asp_web\\BaiKiemTra03_02\\BaiKiemTra03_02\\Views\\Books\\Delete.cshtml",
+              "RelativeToolTip": "BaiKiemTra03_02\\Views\\Books\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-07T08:11:37.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "D:\\GitHub\\asp_web\\BaiKiemTra03_02\\BaiKiemTra03_02\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "BaiKiemTra03_02\\Controllers\\BookController.cs",
+              "ToolTip": "D:\\GitHub\\asp_web\\BaiKiemTra03_02\\BaiKiemTra03_02\\Controllers\\BookController.cs",
+              "RelativeToolTip": "BaiKiemTra03_02\\Controllers\\BookController.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAAAHAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T08:03:54.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthorController.cs",
+              "DocumentMoniker": "D:\\GitHub\\asp_web\\BaiKiemTra03_02\\BaiKiemTra03_02\\Controllers\\AuthorController.cs",
+              "RelativeDocumentMoniker": "BaiKiemTra03_02\\Controllers\\AuthorController.cs",
+              "ToolTip": "D:\\GitHub\\asp_web\\BaiKiemTra03_02\\BaiKiemTra03_02\\Controllers\\AuthorController.cs",
+              "RelativeToolTip": "BaiKiemTra03_02\\Controllers\\AuthorController.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAqwD4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T07:41:11.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Author.cs",
+              "DocumentMoniker": "D:\\GitHub\\asp_web\\BaiKiemTra03_02\\BaiKiemTra03_02\\Models\\Author.cs",
+              "RelativeDocumentMoniker": "BaiKiemTra03_02\\Models\\Author.cs",
+              "ToolTip": "D:\\GitHub\\asp_web\\BaiKiemTra03_02\\BaiKiemTra03_02\\Models\\Author.cs",
+              "RelativeToolTip": "BaiKiemTra03_02\\Models\\Author.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-07T07:20:50.652Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
